@@ -50,13 +50,13 @@ function App() {
 				<img class="postcard__img" src={yash} alt="Image Title" />
 			</a>
 			<div class="postcard__text">
-				<h1 class="postcard__title blue">Happiest Birthday Yashika!</h1>
+				<h1 class="postcard__title blue">Happiest Birthday Saloni!</h1>
 				<div class="postcard__bar"></div>
-				<div class="postcard__preview-txt">Yeah I know this is the most nerdy way to wish someone but I do not have any materialistic thing for you. I'm too late to give you this small present cause busy in my dance 😂. From 1st year to now we always help each other in exams and you were always supportive when I was in any trouble.<br/>You may be rude sometimes I don't know why but Its okay now I'm good in handling that 😂. I hope you have enjoyed your day and thanks for coming to the event.</div>
+				<div class="postcard__preview-txt">Yeah I know this is the most nerdy way to wish someone but I do not have any materialistic thing for you.Just a small effort to the most kindest person(chipkali🥲) ever I met and wishing you to be the happiest one and the person whome I can share about anything  . So last but not the least Wishing you the Happiest Birthday of your life(iske baad toh shadi ho jani h 😂) to you. I hope you will enjoy your day(keep this as a secret sabke liye itna hoga😂).</div>
 				<ul class="postcard__tagbox">
-					<li class="tag__item"><i class="fas fa-tag mr-2"></i>Your Coffee promise still pending 🥲</li>
+					<li class="tag__item"><i class="fas fa-tag mr-2"></i>Your Party will still be pending 🥲</li>
 				</ul>
-			</div>
+			</div>  
 		</article>
 	</div>
           </motion.div>
