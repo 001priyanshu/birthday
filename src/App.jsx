@@ -52,7 +52,7 @@ function App() {
 			<div class="postcard__text">
 				<h1 class="postcard__title blue">Happiest Birthday Saloni!</h1>
 				<div class="postcard__bar"></div>
-				<div class="postcard__preview-txt">Yeah I know this is the most nerdy way to wish someone but I do not have any materialistic thing for you.Just a small effort to the most kindest person(chipkali🥲) ever I met and wishing you to be the happiest one and the person whome I can share about anything  . So last but not the least Wishing you the Happiest Birthday of your life(iske baad toh shadi ho jani h 😂) to you. I hope you will enjoy your day(keep this as a secret sabke liye itna hoga😂).</div>
+				<div class="postcard__preview-txt">Yeah I know this is the most nerdy way to wish someone but I do not have any materialistic thing for you.Just a small effort to the most kindest person(chipkali🥲) ever I met and wishing you to be the happiest one and the person whome I can share about anything  . So last but not the least Wishing you the Happiest Birthday of your life(iske baad toh shadi ho jani h 😂) to you. I hope you will enjoy your day(keep this as a secret sabke liye itna nhi hoga😂).</div>
 				<ul class="postcard__tagbox">
 					<li class="tag__item"><i class="fas fa-tag mr-2"></i>Your Party will still be pending 🥲</li>
 				</ul>
